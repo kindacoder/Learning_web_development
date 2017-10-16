@@ -21,7 +21,7 @@
     text-align:justify;
 }
 #introduction p{
-    margin-top:-20px;
+    margin-top:10px;
     font-family: Nunito, Helvetica, sans-serif;
     
 }
@@ -55,12 +55,14 @@
     float:left;
     background-color:white;
     height:1000px;
+    
 
 }
 #rightside{
     width:50%
     float:right;
-    background-color: yellow;
+    
+    
     height:1000px;
 
 
@@ -76,8 +78,61 @@
 #expericedetails{
     float:left;
 }
+#repeat{
+    padding-bottom:80px;
+}
+.accomp{
+font-size:20px;
+color:blue;
+}
+#education{
+    margin-bottm:100px;
+}
+.progressbar{
+    margin-left:650px;
+}
 
+
+
+
+.skillcontainer {
+    width: 30%; 
+    background-color: rgb(240, 8, 8);
+    margin-left:800px; 
     
+    
+    
+}
+.skills {
+    text-align: right; 
+    margin-left:800px;
+    line-height: 40px; 
+    color: rgb(228, 25, 25); 
+    
+}
+.html {
+    width: 90%; background-color: #f44336;
+} 
+.css {
+    width: 80%; background-color: #f44336;
+} 
+.js {
+    width: 65%; background-color: #f44336;
+} 
+.php {
+    width: 60%; background-color: #f44336;
+} 
+
+
+.progressbar{
+    margin-left:750px;
+    font-weight: bold;
+    margin-top:25px;
+    
+
+}
+
+  
     
     
    
