@@ -106,7 +106,7 @@ color:blue;
 .skills {
     text-align: right; 
     margin-left:800px;
-    line-height: 40px; 
+    line-height: 35px; 
     color: rgb(228, 25, 25); 
     
 }
@@ -131,6 +131,25 @@ color:blue;
     
 
 }
+ul li{
+    display:inline;
+    padding-left:200px;
+    
+    
+}
+ul
+{
+    margin-top:50px;
+    
+    
+}
+#social{
+    margin-left:500px;
+    
+}
+
+    
+
 
   
     
